@@ -11,13 +11,10 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
 
 ---
 
-<div align="left">
-  <a href="https://www.instagram.com/gabisunderhur/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielasunderhur/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div> 
+  <a href="https://instagram.com/gabisunderhur" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="35"></a>
+ <a href="https://discord.gg/178238510862434305" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" height="35"></a> 
+  <a href="https://www.linkedin.com/in/gabrielasunderhur/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="35"></a> 
 </div>
 
 ### 🤖 Linguagens e Tecnologias
@@ -26,7 +23,7 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -34,7 +31,7 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -42,7 +39,7 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -50,7 +47,7 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -58,7 +55,7 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
