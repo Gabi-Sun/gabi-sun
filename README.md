@@ -7,7 +7,7 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
 
 - 🌱 Estou aprendendo JavaScript
 - 🤔 Em busca de um estágio
-- 📫 Contate-me: gabrielasunderhur@hotmail.com
+- 📫 Entre em contato: gabrielasunderhur@hotmail.com
 
 ---
 
