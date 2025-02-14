@@ -63,19 +63,11 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabi-sun&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&locale=pt-br" 
-  />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabi-sun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabi-sun&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-  <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-sun&theme=dracula&custom_title=Tecnologias&langs_count=2" 
-    />
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gabi-sun/gabi-sun/output/snake.svg" alt="Snake animation" />
