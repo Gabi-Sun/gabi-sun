@@ -76,6 +76,6 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
         align="left" 
         alt="GitHub Stats" 
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-sun&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=2" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-sun&theme=dracula&custom_title=Tecnologias&langs_count=2" 
     />
 </p>
