@@ -69,14 +69,13 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabi-sun&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=gabi-sun&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-sun&theme=dracula&custom_title=Tecnologias&langs_count=2" 
-  />
-
+  <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-sun&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=2" 
+    />
 </p>
