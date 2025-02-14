@@ -72,6 +72,9 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
     src="https://github-readme-stats.vercel.app/api?username=gabi-sun&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&locale=pt-br" 
   />
 
+  <br/>
+  <br/>
+
   <img 
         align="left" 
         alt="GitHub Stats" 
