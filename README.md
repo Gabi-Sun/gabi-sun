@@ -72,25 +72,4 @@ Além do meu desenvolvimento acadêmico, possuo uma experiência significativa e
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gabi-sun/gabi-sun/output/snake.svg" alt="Snake animation" />
-
-
-
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabi-sun&show_icons=true&theme=synthwave&layout=compact&custom_title=Tecnologias" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-sun&theme=synthwave" 
-  />
-
-</p>
   
